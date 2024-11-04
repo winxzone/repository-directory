@@ -6,4 +6,5 @@
 3. [TRANSFORMATIONS COORDINATE SYSTEMS](https://github.com/winxzone/Coordinate-Systems) - Виконана(Здана)
 4. [RADAR](https://github.com/winxzone/RADAR) - Виконана(Здана)
 5. [GPS](https://github.com/winxzone/gps) - Виконана
-6. [KALMAN](https://github.com/winxzone/Filter-Kalman) - Виконана
+6. [LORAN](https://github.com/winxzone/loran) - Виконана
+7. [KALMAN](https://github.com/winxzone/Filter-Kalman) - Виконана
